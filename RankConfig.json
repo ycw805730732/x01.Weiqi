@@ -1,0 +1,482 @@
+﻿[
+  {
+    "id": 0,
+    "unlockStarNum": 5,
+    "rank": "青铜1",
+    "getPrize": -1
+  },
+  {
+    "id": 1,
+    "unlockStarNum": 10,
+    "rank": "青铜2",
+    "getPrize": -1
+  },
+  {
+    "id": 2,
+    "unlockStarNum": 15,
+    "rank": "青铜3",
+    "getPrize": 10020
+  },
+  {
+    "id": 3,
+    "unlockStarNum": 20,
+    "rank": "青铜4",
+    "getPrize": -1
+  },
+  {
+    "id": 4,
+    "unlockStarNum": 25,
+    "rank": "青铜5",
+    "getPrize": -1
+  },
+  {
+    "id": 5,
+    "unlockStarNum": 30,
+    "rank": "青铜6",
+    "getPrize": 20050
+  },
+  {
+    "id": 6,
+    "unlockStarNum": 35,
+    "rank": "青铜7",
+    "getPrize": -1
+  },
+  {
+    "id": 7,
+    "unlockStarNum": 40,
+    "rank": "青铜8",
+    "getPrize": -1
+  },
+  {
+    "id": 8,
+    "unlockStarNum": 45,
+    "rank": "青铜9",
+    "getPrize": -1
+  },
+  {
+    "id": 9,
+    "unlockStarNum": 50,
+    "rank": "青铜10",
+    "getPrize": 30003
+  },
+  {
+    "id": 10,
+    "unlockStarNum": 55,
+    "rank": "白银1",
+    "getPrize": -1
+  },
+  {
+    "id": 11,
+    "unlockStarNum": 60,
+    "rank": "白银2",
+    "getPrize": -1
+  },
+  {
+    "id": 12,
+    "unlockStarNum": 65,
+    "rank": "白银3",
+    "getPrize": 10020
+  },
+  {
+    "id": 13,
+    "unlockStarNum": 70,
+    "rank": "白银4",
+    "getPrize": -1
+  },
+  {
+    "id": 14,
+    "unlockStarNum": 75,
+    "rank": "白银5",
+    "getPrize": -1
+  },
+  {
+    "id": 15,
+    "unlockStarNum": 80,
+    "rank": "白银6",
+    "getPrize": 20050
+  },
+  {
+    "id": 16,
+    "unlockStarNum": 85,
+    "rank": "白银7",
+    "getPrize": -1
+  },
+  {
+    "id": 17,
+    "unlockStarNum": 90,
+    "rank": "白银8",
+    "getPrize": -1
+  },
+  {
+    "id": 18,
+    "unlockStarNum": 95,
+    "rank": "白银9",
+    "getPrize": -1
+  },
+  {
+    "id": 19,
+    "unlockStarNum": 100,
+    "rank": "白银10",
+    "getPrize": 30003
+  },
+  {
+    "id": 20,
+    "unlockStarNum": 105,
+    "rank": "黄金1",
+    "getPrize": -1
+  },
+  {
+    "id": 21,
+    "unlockStarNum": 110,
+    "rank": "黄金2",
+    "getPrize": -1
+  },
+  {
+    "id": 22,
+    "unlockStarNum": 115,
+    "rank": "黄金3",
+    "getPrize": 30000
+  },
+  {
+    "id": 23,
+    "unlockStarNum": 120,
+    "rank": "黄金4",
+    "getPrize": -1
+  },
+  {
+    "id": 24,
+    "unlockStarNum": 125,
+    "rank": "黄金5",
+    "getPrize": -1
+  },
+  {
+    "id": 25,
+    "unlockStarNum": 130,
+    "rank": "黄金6",
+    "getPrize": 20050
+  },
+  {
+    "id": 26,
+    "unlockStarNum": 135,
+    "rank": "黄金7",
+    "getPrize": -1
+  },
+  {
+    "id": 27,
+    "unlockStarNum": 140,
+    "rank": "黄金8",
+    "getPrize": -1
+  },
+  {
+    "id": 28,
+    "unlockStarNum": 145,
+    "rank": "黄金9",
+    "getPrize": -1
+  },
+  {
+    "id": 29,
+    "unlockStarNum": 150,
+    "rank": "黄金10",
+    "getPrize": 30003
+  },
+  {
+    "id": 30,
+    "unlockStarNum": 155,
+    "rank": "铂金1",
+    "getPrize": -1
+  },
+  {
+    "id": 31,
+    "unlockStarNum": 160,
+    "rank": "铂金2",
+    "getPrize": -1
+  },
+  {
+    "id": 32,
+    "unlockStarNum": 165,
+    "rank": "铂金3",
+    "getPrize": 10050
+  },
+  {
+    "id": 33,
+    "unlockStarNum": 170,
+    "rank": "铂金4",
+    "getPrize": -1
+  },
+  {
+    "id": 34,
+    "unlockStarNum": 175,
+    "rank": "铂金5",
+    "getPrize": -1
+  },
+  {
+    "id": 35,
+    "unlockStarNum": 180,
+    "rank": "铂金6",
+    "getPrize": 30000
+  },
+  {
+    "id": 36,
+    "unlockStarNum": 185,
+    "rank": "铂金7",
+    "getPrize": -1
+  },
+  {
+    "id": 37,
+    "unlockStarNum": 190,
+    "rank": "铂金8",
+    "getPrize": -1
+  },
+  {
+    "id": 38,
+    "unlockStarNum": 195,
+    "rank": "铂金9",
+    "getPrize": -1
+  },
+  {
+    "id": 39,
+    "unlockStarNum": 200,
+    "rank": "铂金10",
+    "getPrize": 30003
+  },
+  {
+    "id": 40,
+    "unlockStarNum": 205,
+    "rank": "钻石1",
+    "getPrize": -1
+  },
+  {
+    "id": 41,
+    "unlockStarNum": 210,
+    "rank": "钻石2",
+    "getPrize": -1
+  },
+  {
+    "id": 42,
+    "unlockStarNum": 215,
+    "rank": "钻石3",
+    "getPrize": 20080
+  },
+  {
+    "id": 43,
+    "unlockStarNum": 220,
+    "rank": "钻石4",
+    "getPrize": -1
+  },
+  {
+    "id": 44,
+    "unlockStarNum": 225,
+    "rank": "钻石5",
+    "getPrize": -1
+  },
+  {
+    "id": 45,
+    "unlockStarNum": 230,
+    "rank": "钻石6",
+    "getPrize": 10050
+  },
+  {
+    "id": 46,
+    "unlockStarNum": 235,
+    "rank": "钻石7",
+    "getPrize": -1
+  },
+  {
+    "id": 47,
+    "unlockStarNum": 240,
+    "rank": "钻石8",
+    "getPrize": -1
+  },
+  {
+    "id": 48,
+    "unlockStarNum": 245,
+    "rank": "钻石9",
+    "getPrize": -1
+  },
+  {
+    "id": 49,
+    "unlockStarNum": 250,
+    "rank": "钻石10",
+    "getPrize": 30003
+  },
+  {
+    "id": 50,
+    "unlockStarNum": 255,
+    "rank": "星耀1",
+    "getPrize": -1
+  },
+  {
+    "id": 51,
+    "unlockStarNum": 260,
+    "rank": "星耀2",
+    "getPrize": -1
+  },
+  {
+    "id": 52,
+    "unlockStarNum": 265,
+    "rank": "星耀3",
+    "getPrize": 30001
+  },
+  {
+    "id": 53,
+    "unlockStarNum": 270,
+    "rank": "星耀4",
+    "getPrize": -1
+  },
+  {
+    "id": 54,
+    "unlockStarNum": 275,
+    "rank": "星耀5",
+    "getPrize": -1
+  },
+  {
+    "id": 55,
+    "unlockStarNum": 280,
+    "rank": "星耀6",
+    "getPrize": 20080
+  },
+  {
+    "id": 56,
+    "unlockStarNum": 285,
+    "rank": "星耀7",
+    "getPrize": -1
+  },
+  {
+    "id": 57,
+    "unlockStarNum": 290,
+    "rank": "星耀8",
+    "getPrize": -1
+  },
+  {
+    "id": 58,
+    "unlockStarNum": 295,
+    "rank": "星耀9",
+    "getPrize": -1
+  },
+  {
+    "id": 59,
+    "unlockStarNum": 300,
+    "rank": "星耀10",
+    "getPrize": 30003
+  },
+  {
+    "id": 60,
+    "unlockStarNum": 307,
+    "rank": "王者1",
+    "getPrize": -1
+  },
+  {
+    "id": 61,
+    "unlockStarNum": 314,
+    "rank": "王者2",
+    "getPrize": -1
+  },
+  {
+    "id": 62,
+    "unlockStarNum": 321,
+    "rank": "王者3",
+    "getPrize": 20100
+  },
+  {
+    "id": 63,
+    "unlockStarNum": 328,
+    "rank": "王者4",
+    "getPrize": -1
+  },
+  {
+    "id": 64,
+    "unlockStarNum": 335,
+    "rank": "王者5",
+    "getPrize": -1
+  },
+  {
+    "id": 65,
+    "unlockStarNum": 342,
+    "rank": "王者6",
+    "getPrize": 30001
+  },
+  {
+    "id": 66,
+    "unlockStarNum": 349,
+    "rank": "王者7",
+    "getPrize": -1
+  },
+  {
+    "id": 67,
+    "unlockStarNum": 356,
+    "rank": "王者8",
+    "getPrize": -1
+  },
+  {
+    "id": 68,
+    "unlockStarNum": 363,
+    "rank": "王者9",
+    "getPrize": -1
+  },
+  {
+    "id": 69,
+    "unlockStarNum": 370,
+    "rank": "王者10",
+    "getPrize": 30003
+  },
+  {
+    "id": 70,
+    "unlockStarNum": 377,
+    "rank": "至尊1",
+    "getPrize": -1
+  },
+  {
+    "id": 71,
+    "unlockStarNum": 384,
+    "rank": "至尊2",
+    "getPrize": -1
+  },
+  {
+    "id": 72,
+    "unlockStarNum": 391,
+    "rank": "至尊3",
+    "getPrize": 20200
+  },
+  {
+    "id": 73,
+    "unlockStarNum": 398,
+    "rank": "至尊4",
+    "getPrize": -1
+  },
+  {
+    "id": 74,
+    "unlockStarNum": 405,
+    "rank": "至尊5",
+    "getPrize": -1
+  },
+  {
+    "id": 75,
+    "unlockStarNum": 412,
+    "rank": "至尊6",
+    "getPrize": 30001
+  },
+  {
+    "id": 76,
+    "unlockStarNum": 419,
+    "rank": "至尊7",
+    "getPrize": -1
+  },
+  {
+    "id": 77,
+    "unlockStarNum": 426,
+    "rank": "至尊8",
+    "getPrize": -1
+  },
+  {
+    "id": 78,
+    "unlockStarNum": 433,
+    "rank": "至尊9",
+    "getPrize": -1
+  },
+  {
+    "id": 79,
+    "unlockStarNum": 440,
+    "rank": "至尊10",
+    "getPrize": 30003
+  }
+]
